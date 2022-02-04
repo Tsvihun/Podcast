@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Podcast
 //
-//  Created by Лилия on 27.09.2021.
+//  Created by Tsvigun on 27.09.2021.
 //
 
 import UIKit
